@@ -1,24 +1,24 @@
 === Zeever ===
 Contributors: Jegstudio
-Requires at least: 5.9
-Tested up to: 6.1
+Requires at least: 6.5
+Tested up to: 6.9
 Requires PHP: 7.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Zeever is a modern, responsive, and elegant dark style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Zeever’s created especially for Digital Agency, Creative Agency, Online Portfolio, Designer and Freelancer website for companies or individuals that need a beautiful landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient.
+Zeever is a modern, responsive, and elegant dark style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Zeeverâ€™s created especially for Digital Agency, Creative Agency, Online Portfolio, Designer and Freelancer website for companies or individuals that need a beautiful landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient.
 
 
 == Copyright ==
 
-Zeever, 2022 Jegstudio
+Zeever, 2026 Jegstudio
 Zeever is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
+the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
@@ -28,8 +28,8 @@ GNU General Public License for more details.
 
 Self designed images:
 * Logo under the directory zeever/assets/img/logo-zeever.webp
-Declaring these self designed images under GPL license version 2.0 =
-License URL: http://www.gnu.org/licenses/gpl-2.0.html
+Declaring these self designed images under GPL license version 3.0 =
+License URL: http://www.gnu.org/licenses/gpl-3.0.html
 
 Image for theme screenshot
 License: CC0 1.0 Universal (CC0 1.0)
@@ -177,55 +177,59 @@ Source: https://pxhere.com/en/photo/1258806
 
 == Changelog ==
 
-= 1.1.3 - 2024-05-17 =
+= 1.2.0 =
+* Update theme dashboard
+* Remove unused gutenverse templates
+
+= 1.1.3 =
 * Update Gutenverse template path
 * Remove unused core templates
 
-= 1.1.2 - 2024-03-21 =
+= 1.1.2 =
 * Update notice design
 
-= 1.1.1 - 2024-01-31 =
+= 1.1.1 =
 * Update Ajax
 
-= 1.1.0 - 2023-07-11 =
+= 1.1.0 =
 * Update theme dashboard
 * Fix post content inherit layout
 * Improve the loading of font assets.
 
-= 1.0.9 - 2022-11-16 =
+= 1.0.9 =
 * Use global fonts and colors in templates
 * Update page templates
 * Add new custom templates : blank canvas, and basic template
 
-= 1.0.8 - 2022-10-14 =
+= 1.0.8 =
 * Add solution option to fix missing home page template
 
-= 1.0.7 - 2022-09-21 =
+= 1.0.7 =
 * Fix missing footer on gutenverse 404 template
 
-= 1.0.6 - 2022-09-14 =
+= 1.0.6 =
 * Fix gutenverse gallery
 
-= 1.0.5 - 2022-08-18 =
+= 1.0.5 =
 * Fix gutenverse templates load mechanism
 * Add new gutenverse templates for 404, archive, index, page, and search
 
-= 1.0.4 - 2022-07-28 =
+= 1.0.4 =
 * Fix animation load issue
 
-= 1.0.3 - 2022-07-08 =
+= 1.0.3 =
 * Add new front page, archive, and search core templates
 * Rework core templates
 * Fix colors
 
-= 1.0.2 - 2022-06-30 =
+= 1.0.2 =
 * Host theme's webfont locally
 * Fix excerpt on admin pages
 * Update theme's dashboard page
 * Fix color accent to be changable using global style
 
-= 1.0.1 - 2022-06-20 =
+= 1.0.1 =
 * Fix excerpt on admin page
 
-= 1.0.0 - 2022-06-14 =
+= 1.0.0 =
 * Initial release
