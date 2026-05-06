@@ -21,7 +21,7 @@ return array(
 
 <!-- wp:gutenverse/heading {"elementId":"guten-B7JdHF","content":"Team Work","type":3,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"gv-font-feature-secondary","font":{"label":"Poppins","value":"Poppins","type":"google"},"size":{"Desktop":{"unit":"px","point":"24"},"Tablet":{"unit":"px","point":"22"}},"lineHeight":{"Desktop":{"unit":"em","point":"1.2"}},"weight":"700"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"0"}}},"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal"}} /-->
 
-<!-- wp:gutenverse/heading {"elementId":"guten-SG5vxS","content":"Committed and creative","type":6,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"h6-font"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"10"}}},"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal","delay":"100"}} /-->
+<!-- wp:gutenverse/heading {"elementId":"guten-SG5vxS","content":"Committed and creative","type":4,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"h6-font"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"10"}}},"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal","delay":"100"}} /-->
 <!-- /wp:gutenverse/column -->
 
 <!-- wp:gutenverse/column {"width":{"Desktop":50,"Mobile":null},"elementId":"guten-8sM87L","backgroundOverlay":{"type":"default","color":""},"opacity":"","border":{"radius":{"Desktop":[]}},"margin":{"Desktop":[],"Mobile":{"unit":"px","dimension":{"top":"","right":"","bottom":"","left":""}}},"padding":{"Desktop":{"unit":"px","dimension":{"left":"10"}},"Mobile":{"unit":"px","dimension":{"top":"20","right":"0","bottom":"0","left":"0"}}}} -->
@@ -31,7 +31,7 @@ return array(
 
 <!-- wp:gutenverse/heading {"elementId":"guten-BnSOfF","content":"Philosophy","type":3,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"gv-font-feature-secondary","font":{"label":"Poppins","value":"Poppins","type":"google"},"size":{"Desktop":{"unit":"px","point":"24"},"Tablet":{"unit":"px","point":"22"}},"lineHeight":{"Desktop":{"unit":"em","point":"1.2"}},"weight":"700"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"0"}}},"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal"}} /-->
 
-<!-- wp:gutenverse/heading {"elementId":"guten-yXt6c8","content":"Trust pays off","type":6,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"h6-font"},"containsAnchorTag":false,"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal","delay":"100"}} /-->
+<!-- wp:gutenverse/heading {"elementId":"guten-yXt6c8","content":"Trust pays off","type":4,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"h6-font"},"containsAnchorTag":false,"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal","delay":"100"}} /-->
 <!-- /wp:gutenverse/column -->
 <!-- /wp:gutenverse/section -->
 
@@ -41,7 +41,7 @@ return array(
 
 <!-- wp:gutenverse/heading {"elementId":"guten-seSbjd","content":"Office","type":3,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"gv-font-feature-secondary","font":{"label":"Poppins","value":"Poppins","type":"google"},"size":{"Desktop":{"unit":"px","point":"24"},"Tablet":{"unit":"px","point":"22"}},"lineHeight":{"Desktop":{"unit":"em","point":"1.2"}},"weight":"700"},"containsAnchorTag":false,"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"0"}}},"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal"}} /-->
 
-<!-- wp:gutenverse/heading {"elementId":"guten-QEAm6e","content":"Somewhere on earth","type":6,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"h6-font"},"containsAnchorTag":false,"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal","delay":"100"}} /-->
+<!-- wp:gutenverse/heading {"elementId":"guten-QEAm6e","content":"Somewhere on earth","type":4,"color":{"type":"variable","id":"gv-color-dark-text-primary"},"typography":{"type":"variable","id":"h6-font"},"containsAnchorTag":false,"animation":{"type":{"Desktop":"fadeInUp"},"duration":"normal","delay":"100"}} /-->
 <!-- /wp:gutenverse/column -->
 <!-- /wp:gutenverse/section -->
 <!-- /wp:gutenverse/column -->

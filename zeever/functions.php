@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-defined( 'ZEEVER_VERSION' ) || define( 'ZEEVER_VERSION', '1.2.0' );
+defined( 'ZEEVER_VERSION' ) || define( 'ZEEVER_VERSION', '1.2.1' );
 defined( 'ZEEVER_DIR' ) || define( 'ZEEVER_DIR', trailingslashit( get_template_directory() ) );
 
 defined( 'GUTENVERSE_COMPANION_REQUIRED_VERSION' ) || define( 'GUTENVERSE_COMPANION_REQUIRED_VERSION', '2.3.2' );

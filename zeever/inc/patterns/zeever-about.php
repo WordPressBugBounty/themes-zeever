@@ -15,8 +15,8 @@ return array(
 <h2 class="wp-block-heading has-text-align-left is-style-lineseparator zeever-animate zeever-move-right zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-heading-2-font-size">About</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"left","className":"zeever-animate zeever-move-right zeever-delay-3","style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"textColor":"gv-color-dark-primary","fontSize":"heading-6"} -->
-<h2 class="wp-block-heading has-text-align-left zeever-animate zeever-move-right zeever-delay-3 has-gv-color-dark-primary-color has-text-color has-heading-6-font-size" style="font-style:normal;font-weight:500;text-transform:uppercase">We Are Best Digital Agency Since 2008</h2>
+<!-- wp:heading {"textAlign":"left","level":3,"className":"zeever-animate zeever-move-right zeever-delay-3","style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"textColor":"gv-color-dark-primary","fontSize":"heading-6"} -->
+<h3 class="wp-block-heading has-text-align-left zeever-animate zeever-move-right zeever-delay-3 has-gv-color-dark-primary-color has-text-color has-heading-6-font-size" style="font-style:normal;font-weight:500;text-transform:uppercase">We Are Best Digital Agency Since 2008</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -34,8 +34,8 @@ return array(
 <div style="height:500px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"left","className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"gv-color-dark-text-primary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-text-align-left zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Team Work</h2>
+<!-- wp:heading {"textAlign":"left","level":3,"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"gv-color-dark-text-primary","fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-left zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Team Work</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"gv-color-dark-text-primary","fontSize":"tiny"} -->
@@ -53,8 +53,8 @@ return array(
 <div style="height:160px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"left","className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"gv-color-dark-text-primary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-text-align-left zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Philosophy</h2>
+<!-- wp:heading {"textAlign":"left","level":3,"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"gv-color-dark-text-primary","fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-left zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Philosophy</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"gv-color-dark-text-primary","fontSize":"tiny"} -->
@@ -73,8 +73,8 @@ return array(
 <div style="height:160px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"left","className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"gv-color-dark-text-primary","fontSize":"large"} -->
-<h2 class="wp-block-heading has-text-align-left zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Office</h2>
+<!-- wp:heading {"textAlign":"left","level":3,"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"gv-color-dark-text-primary","fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-left zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Office</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"gv-color-dark-text-primary","fontSize":"tiny"} -->
@@ -91,8 +91,8 @@ return array(
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"80px"}}}} -->
 <div class="wp-block-group" style="padding-top:80px"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"32px","left":"24px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"right":"60px"},"blockGap":"24px"}}} -->
-<div class="wp-block-column" style="padding-right:60px"><!-- wp:heading {"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontSize":"21px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color" style="font-size:21px">Who We Are</h2>
+<div class="wp-block-column" style="padding-right:60px"><!-- wp:heading {"level":3,"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontSize":"21px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color" style="font-size:21px">Who We Are</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","className":"zeever-animate zeever-move-up zeever-delay-3","textColor":"gv-color-dark-text-secondary"} -->
@@ -101,8 +101,8 @@ return array(
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"right":"60px"},"blockGap":"24px"}}} -->
-<div class="wp-block-column" style="padding-right:60px"><!-- wp:heading {"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontSize":"21px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color" style="font-size:21px">Our Vision</h2>
+<div class="wp-block-column" style="padding-right:60px"><!-- wp:heading {"level":3,"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontSize":"21px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color" style="font-size:21px">Our Vision</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","className":"zeever-animate zeever-move-up zeever-delay-3","textColor":"gv-color-dark-text-secondary"} -->
@@ -111,8 +111,8 @@ return array(
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"right":"60px"},"blockGap":"24px"}}} -->
-<div class="wp-block-column" style="padding-right:60px"><!-- wp:heading {"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontSize":"21px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color" style="font-size:21px">Our Mission</h2>
+<div class="wp-block-column" style="padding-right:60px"><!-- wp:heading {"level":3,"className":"zeever-animate zeever-move-up zeever-delay-1","style":{"typography":{"fontSize":"21px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading zeever-animate zeever-move-up zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color" style="font-size:21px">Our Mission</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","className":"zeever-animate zeever-move-up zeever-delay-3","textColor":"gv-color-dark-text-secondary"} -->

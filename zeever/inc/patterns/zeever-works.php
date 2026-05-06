@@ -15,8 +15,8 @@ return array(
 <h2 class="wp-block-heading has-text-align-left is-style-lineseparator zeever-animate zeever-move-right zeever-delay-1 has-gv-color-dark-text-primary-color has-text-color has-heading-2-font-size" style="font-style:normal;font-weight:600">Works</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"left","className":"zeever-animate zeever-move-right zeever-delay-3","style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"textColor":"gv-color-dark-primary","fontSize":"heading-6"} -->
-<h2 class="wp-block-heading has-text-align-left zeever-animate zeever-move-right zeever-delay-3 has-gv-color-dark-primary-color has-text-color has-heading-6-font-size" style="font-style:normal;font-weight:500;text-transform:uppercase">Projects We Have Done</h2>
+<!-- wp:heading {"textAlign":"left","level":3,"className":"zeever-animate zeever-move-right zeever-delay-3","style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"textColor":"gv-color-dark-primary","fontSize":"heading-6"} -->
+<h3 class="wp-block-heading has-text-align-left zeever-animate zeever-move-right zeever-delay-3 has-gv-color-dark-primary-color has-text-color has-heading-6-font-size" style="font-style:normal;font-weight:500;text-transform:uppercase">Projects We Have Done</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -34,26 +34,26 @@ return array(
 <!-- /wp:group --><!-- wp:group {"style":{"color":{"background":"#121212"},"spacing":{"padding":{"top":"0px","bottom":"100px"},"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group has-background" style="background-color:#121212;margin-top:0px;margin-bottom:0px;padding-top:0px;padding-bottom:100px"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"24px"},"padding":{"right":"32px","left":"32px"}}}} -->
 <div class="wp-block-columns" style="padding-right:32px;padding-left:32px"><!-- wp:column {"className":"zeever-animate zeever-move-up zeever-delay-1"} -->
-<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-1"><!-- wp:image {"id":84,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/technology-gadget-ear-font-audio-headphones-1237753-pxhere.com_.webp" alt="" class="wp-image-84"/></figure>
+<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-1"><!-- wp:image {"id":26,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/technology-gadget-ear-font-audio-headphones-1237753-pxhere.com_.webp" alt="technology gadget ear font audio headphones" class="wp-image-26"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"zeever-animate zeever-move-up zeever-delay-3"} -->
-<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-3"><!-- wp:image {"id":81,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/cameras-optics-Point-and-shoot-camera-photograph-camera-camera-accessory-white-1618001-pxhere.com_.webp" alt="" class="wp-image-81"/></figure>
+<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-3"><!-- wp:image {"id":27,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/cameras-optics-Point-and-shoot-camera-photograph-camera-camera-accessory-white-1618001-pxhere.com_.webp" alt="cameras optics Point and shoot camera photograph camera camera accessory white" class="wp-image-27"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"zeever-animate zeever-move-up zeever-delay-5"} -->
-<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-5"><!-- wp:image {"id":85,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/watch-hand-car-wheel-time-hour-712324-pxhere.com_.webp" alt="" class="wp-image-85"/></figure>
+<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-5"><!-- wp:image {"id":28,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/watch-hand-car-wheel-time-hour-712324-pxhere.com_.webp" alt="watch hand car wheel time hour" class="wp-image-28"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"className":"zeever-animate zeever-move-up zeever-delay-7"} -->
-<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-7"><!-- wp:image {"id":80,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/cameras-optics-camera-accessory-camera-photograph-Point-and-shoot-camera-photography-1524315-pxhere.com_.webp" alt="" class="wp-image-80"/></figure>
+<div class="wp-block-column zeever-animate zeever-move-up zeever-delay-7"><!-- wp:image {"id":29,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/cameras-optics-camera-accessory-camera-photograph-Point-and-shoot-camera-photography-1524315-pxhere.com_.webp" alt="cameras optics camera accessory camera photograph point and shoot camera photography" class="wp-image-29"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

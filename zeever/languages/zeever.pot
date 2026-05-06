@@ -2,21 +2,21 @@
 # This file is distributed under the GNU General Public License v3 or later..
 msgid ""
 msgstr ""
-"Project-Id-Version: Zeever 1.2.0\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/zeever-8dCfekzOLMJN\n"
+"Project-Id-Version: Zeever 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/zeever-gKpfVi7aJ6OX\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-04-24T02:38:55+00:00\n"
+"POT-Creation-Date: 2026-05-04T03:01:00+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.10.0\n"
 "X-Domain: zeever\n"
 
 #. Theme Name of the theme
 #: style.css
-#: inc/class/class-init.php:1598
+#: inc/class/class-init.php:1616
 msgid "Zeever"
 msgstr ""
 
@@ -27,7 +27,7 @@ msgstr ""
 
 #. Description of the theme
 #: style.css
-#: inc/class/class-init.php:1599
+#: inc/class/class-init.php:1617
 msgid "Zeever is a modern, responsive, and elegant dark style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Zeever’s created especially for Digital Agency, Creative Agency, Online Portfolio, Designer and Freelancer website for companies or individuals that need a beautiful landing page for their business. The templates includes both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient."
 msgstr ""
 
@@ -53,76 +53,76 @@ msgstr ""
 msgid "Zeever Gutenverse PRO Patterns"
 msgstr ""
 
-#: inc/class/class-init.php:1600
+#: inc/class/class-init.php:1618
 msgid "Plugin Requirement"
 msgstr ""
 
-#: inc/class/class-init.php:1601
+#: inc/class/class-init.php:1619
 msgid "This theme require some plugins. Please make sure all the plugin below are installed and activated."
 msgstr ""
 
-#: inc/class/class-init.php:1607
+#: inc/class/class-init.php:1625
 msgid "Install Gutenverse Plugin"
 msgstr ""
 
-#: inc/class/class-init.php:1608
+#: inc/class/class-init.php:1626
 msgid "Activate Gutenverse Plugin"
 msgstr ""
 
-#: inc/class/class-init.php:1609
+#: inc/class/class-init.php:1627
 msgid "Gutenverse Plugin Installed"
 msgstr ""
 
-#: inc/class/class-init.php:1623
+#: inc/class/class-init.php:1641
 #: inc/class/class-plugin-notice.php:90
 msgid "Gutenverse"
 msgstr ""
 
-#: inc/class/class-init.php:1624
+#: inc/class/class-init.php:1642
 #: inc/class/class-plugin-notice.php:91
 msgid "GUTENVERSE – GUTENBERG BLOCKS AND WEBSITE BUILDER FOR SITE EDITOR, TEMPLATE LIBRARY, POPUP BUILDER, ADVANCED ANIMATION EFFECTS, COMPLETE FEATURE ECOSYSTEM, 45+ FREE USER-FRIENDLY BLOCKS"
 msgstr ""
 
-#: inc/class/class-init.php:1637
+#: inc/class/class-init.php:1655
 #: inc/class/class-plugin-notice.php:104
 msgid "Gutenverse Form"
 msgstr ""
 
-#: inc/class/class-init.php:1638
+#: inc/class/class-init.php:1656
 #: inc/class/class-plugin-notice.php:105
 msgid "GUTENVERSE FORM – FORM BUILDER FOR GUTENBERG BLOCK EDITOR, MULTI-STEP FORMS, CONDITIONAL LOGIC, PAYMENT, CALCULATION, 15+ FREE USER-FRIENDLY FORM BLOCKS"
 msgstr ""
 
-#: inc/class/class-init.php:1650
+#: inc/class/class-init.php:1668
 #: inc/class/class-plugin-notice.php:117
 msgid "Gutenverse Companion"
 msgstr ""
 
-#: inc/class/class-init.php:1651
+#: inc/class/class-init.php:1669
 #: inc/class/class-plugin-notice.php:118
 msgid "A companion plugin designed specifically to enhance and extend the functionality of Gutenverse base themes. This plugin integrates seamlessly with the base themes, providing additional features, customization options, and advanced tools to optimize the overall user experience and streamline the development process."
 msgstr ""
 
-#: inc/class/class-init.php:1677
+#: inc/class/class-init.php:1695
 msgid "Zeever PRO"
 msgstr ""
 
-#: inc/class/class-init.php:1740
+#: inc/class/class-init.php:1758
 msgid "You don't have any demo activated"
 msgstr ""
 
-#: inc/class/class-init.php:1808
-#: inc/class/class-init.php:1810
-#: inc/class/class-init.php:1811
+#: inc/class/class-init.php:1826
+#: inc/class/class-init.php:1828
+#: inc/class/class-init.php:1829
 msgid "unknown"
 msgstr ""
 
-#: inc/class/class-init.php:1813
+#: inc/class/class-init.php:1831
 msgid "by"
 msgstr ""
 
-#: inc/class/class-init.php:1835
-#: inc/class/class-init.php:1836
+#: inc/class/class-init.php:1853
+#: inc/class/class-init.php:1854
 msgid "Zeever Dashboard"
 msgstr ""
 
@@ -439,6 +439,11 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Secondary"
 msgstr ""
 
 #: theme.json

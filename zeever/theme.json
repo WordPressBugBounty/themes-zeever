@@ -187,6 +187,11 @@
                     "slug": "gv-color-white",
                     "name": "White",
                     "color": "#ffffff"
+                },
+                {
+                    "slug": "gv-color-dark-secondary",
+                    "name": "Dark Secondary",
+                    "color": "#FFFFFF"
                 }
             ]
         },

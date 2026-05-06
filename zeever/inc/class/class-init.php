@@ -1422,6 +1422,24 @@ class Init {
     ),
     'weight' => '500',
   ),
+),array (
+  'id' => 'gv-font-text-hero',
+  'name' => 'Text Hero',
+  'font' => 
+  array (
+  ),
+),array (
+  'id' => 'gv-font-form-label',
+  'name' => 'Form Label',
+  'font' => 
+  array (
+  ),
+),array (
+  'id' => 'gv-font-heading-404',
+  'name' => 'Heading 404',
+  'font' => 
+  array (
+  ),
 ),
 		);
 	}

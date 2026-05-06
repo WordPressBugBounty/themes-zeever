@@ -15,8 +15,8 @@ return array(
 <h2 class="wp-block-heading has-text-align-left is-style-lineseparator zeever-animate zeever-move-right zeever-delay-1 has-white-color has-text-color has-link-color has-heading-2-font-size">Testimonials.</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"left","className":"zeever-animate zeever-move-right zeever-delay-3","style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"textColor":"gv-color-dark-primary","fontSize":"heading-6"} -->
-<h2 class="wp-block-heading has-text-align-left zeever-animate zeever-move-right zeever-delay-3 has-gv-color-dark-primary-color has-text-color has-heading-6-font-size" style="font-style:normal;font-weight:500;text-transform:uppercase">FEEDBACK FROUM OUR CLIENTS</h2>
+<!-- wp:heading {"textAlign":"left","level":3,"className":"zeever-animate zeever-move-right zeever-delay-3","style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}},"textColor":"gv-color-dark-primary","fontSize":"heading-6"} -->
+<h3 class="wp-block-heading has-text-align-left zeever-animate zeever-move-right zeever-delay-3 has-gv-color-dark-primary-color has-text-color has-heading-6-font-size" style="font-style:normal;font-weight:500;text-transform:uppercase">FEEDBACK FROUM OUR CLIENTS</h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -44,16 +44,16 @@ return array(
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:image {"id":94,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/man-person-people-hair-photography-summer-1177664-pxhere.com_.webp" alt="" class="wp-image-94" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
+<!-- wp:image {"id":56,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/man-person-people-hair-photography-summer-1177664-pxhere.com_.webp" alt="man person people hair photography summer" class="wp-image-56" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">John Doe</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">John Doe</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Designer</h2>
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
+<h4 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Designer</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -72,16 +72,16 @@ return array(
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:image {"id":97,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/person-people-girl-woman-hair-photography-1172571-pxhere.com_.webp" alt="" class="wp-image-97" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
+<!-- wp:image {"id":57,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/person-people-girl-woman-hair-photography-1172571-pxhere.com_.webp" alt="person people girl woman hair photography" class="wp-image-57" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">Jennifer Doe</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">Jennifer Doe</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Marketing</h2>
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
+<h4 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Marketing</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -100,16 +100,16 @@ return array(
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:image {"id":96,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/person-girl-woman-hair-photography-portrait-108386-pxhere.com_.webp" alt="" class="wp-image-96" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
+<!-- wp:image {"id":58,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/person-girl-woman-hair-photography-portrait-108386-pxhere.com_.webp" alt="person girl woman hair photography portrait" class="wp-image-58" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">Claudia Doe</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">Claudia Doe</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Consultant</h2>
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
+<h4 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Consultant</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -128,16 +128,16 @@ return array(
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:image {"id":95,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/man-person-people-lawn-photography-model-1220414-pxhere.com_.webp" alt="" class="wp-image-95" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
+<!-- wp:image {"id":59,"width":"70px","height":"70px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized zeever-margin-top-n40 is-style-rounded","style":{"border":{"radius":"50px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border zeever-margin-top-n40 is-style-rounded"><img src="' . esc_url( trailingslashit( get_template_directory_uri() ) ) . 'assets/img/man-person-people-lawn-photography-model-1220414-pxhere.com_.webp" alt="man person people lawn photography model" class="wp-image-59" style="border-radius:50px;object-fit:cover;width:70px;height:70px"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">Steven Doe</h2>
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"15px"}},"typography":{"fontSize":"16px"}},"textColor":"gv-color-dark-text-primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-gv-color-dark-text-primary-color has-text-color" style="margin-top:15px;font-size:16px">Steven Doe</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
-<h2 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Programmer</h2>
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"14px","lineHeight":"0"}},"textColor":"gv-color-dark-text-secondary"} -->
+<h4 class="wp-block-heading has-text-align-center has-gv-color-dark-text-secondary-color has-text-color" style="font-size:14px;font-style:normal;font-weight:400;line-height:0">Programmer</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
